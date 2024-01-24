@@ -11,7 +11,7 @@ const Features = () => {
       <div className="max-w-[1222px] mx-auto px-4 sm:px-8 xl:px-0">
         <SectionTitle
           subTitle="Main Features"
-          title="Key Features of AI Tool"
+          title="Key Features of Rose Development"
           paragraph="A Complete Solution for AI SaaS Startups"
         />
 

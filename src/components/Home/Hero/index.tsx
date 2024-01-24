@@ -36,21 +36,22 @@ const Hero = () => {
             />
 
             <span className="hero-subtitle-text">
-              Launch Your AI Startup with
+              Launch Your Digital Project with
             </span>
           </span>
           <h1 className="text-white mb-6 text-3xl font-extrabold sm:text-5xl xl:text-heading-1">
-            OpenAI + Next.js SaaS Boilerplate and Starter Kit
+            Ai + Developers working together to Build Great Applications
           </h1>
           <p className="max-w-[500px] mx-auto mb-9 font-medium md:text-lg">
-          Ideal for developers looking to build SaaS applications using OpenAI and Next.js, this starter kit comes with pre-configured and pre-built examples, making it easier to quickly kickstart your AI startup.
+          This is ideal for buisness owners who want a hands off aproach to the digital era. We handel the creation of your website or app and building ai to support your buisness.
+          We also act as your personal tech consultants and help you make the right decisions for your buisness. All that in a one time payment for your one time solution.
           </p>
 
           <Link
             href="/ai-examples"
             className="hero-button-gradient inline-flex rounded-lg py-3 px-7 text-white font-medium ease-in duration-300 hover:opacity-80"
           >
-            Try AI Examples
+            Join our Client List Today
           </Link>
         </div>
       </div>
