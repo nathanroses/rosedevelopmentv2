@@ -11,8 +11,8 @@ import Support from "@/components/Support";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "AI Tool - Next.js Template for AI Tools",
-  description: "This is Home for AI Tool",
+  title: "Rose Development - Ai + Web Development",
+  description: "This is Home for Rose Development",
   // other metadata
 };
 
