@@ -40,18 +40,18 @@ const Hero = () => {
             </span>
           </span>
           <h1 className="text-white mb-6 text-3xl font-extrabold sm:text-5xl xl:text-heading-1">
-            Ai + Developers working together to Build Great Applications
+            Ai + Developers working together to Build Applications
           </h1>
           <p className="max-w-[500px] mx-auto mb-9 font-medium md:text-lg">
-          This is ideal for buisness owners who want a hands off aproach to the digital era. We handel the creation of your website or app and building ai to support your buisness.
-          We also act as your personal tech consultants and help you make the right decisions for your buisness. All that in a one time payment for your one time solution.
+          This is ideal for buisness owners who want a hands off aproach to the digital era. We handel the creation of your website or app including building ai specialized to your industry.
+           All that for a one time payment to create your forever solution.
           </p>
 
           <Link
             href="/ai-examples"
             className="hero-button-gradient inline-flex rounded-lg py-3 px-7 text-white font-medium ease-in duration-300 hover:opacity-80"
           >
-            Join our Client List Today
+            Join our Client List 
           </Link>
         </div>
       </div>

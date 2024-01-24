@@ -54,8 +54,8 @@ const SinglePricing = ({ price }: any) => {
         </h2>
 
         <p className="font-medium">
-          /month <br />
-          (billed annually)
+          /only <br />
+          (billed once)
         </p>
       </div>
 

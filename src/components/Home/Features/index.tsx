@@ -12,7 +12,7 @@ const Features = () => {
         <SectionTitle
           subTitle="Main Features"
           title="Key Features of Rose Development"
-          paragraph="A Complete Solution for AI SaaS Startups"
+          paragraph="Complete Solution for Any Buisness"
         />
 
         <div className="relative">

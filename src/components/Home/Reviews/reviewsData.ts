@@ -1,222 +1,171 @@
-import { Review } from "@/types/review";
-
-const reviewsData: Review[] = [
+const reviewsData = [
   {
     id: 100,
-    userName: "Marc Herrera",
-    userDesignation: "@Shane",
+    userName: "Marc Thompson",
+    userDesignation: "Web Developer",
     userImage: "/images/user/user-01.png",
-    description:
-      "ruler characteristic present neighborhood sister available caught then over pound threw page anywhere secret mark whenever went disease dollar hearing partly plenty somewhere aware",
+    description: "Innovative solutions and a proactive approach made our collaboration effective. Timely communication was a highlight.",
   },
   {
     id: 19,
-    userName: "Alfred Montgomery",
-    userDesignation: "@Olivia",
-    userImage: "/images/user/user-02.png",
-    description:
-      "local month pale negative last real card north plane thumb seldom gently lie shot floor animal introduced straw fellow applied ago anyway closer bag",
+    userName: "Alfred Simmons",
+    userDesignation: "Project Manager",
+    userImage: "/images/user/user-05.png",
+    description: "Their ability to navigate complex project requirements was impressive. A partner you can rely on for tech solutions.",
   },
   {
     id: 45,
-    userName: "Marvin Williamson",
-    userDesignation: "@Jeanette",
-    userImage: "/images/user/user-03.png",
-    description:
-      "state poet carried toward weak corner answer till give play seven bridge finest morning wool or although who twenty elephant slide swam being mix",
+    userName: "Marvin Clark",
+    userDesignation: "UI/UX Designer",
+    userImage: "/images/user/user-02.png",
+    description: "Creative and thoughtful in design strategy, their input was invaluable. Looking forward to future collaborations.",
   },
   {
     id: 38,
-    userName: "David Hudson",
-    userDesignation: "@Hilda",
-    userImage: "/images/user/user-04.png",
-    description:
-      "quiet type situation between cattle oxygen could tank class chose social thumb while indicate receive into equally right engineer morning thee promised quite hurry",
+    userName: "David Allen",
+    userDesignation: "Tech Consultant",
+    userImage: "/images/user/user-07.png",
+    description: "Technical expertise paired with strategic thinking made a significant difference. Clearer scope definitions would be an enhancement.",
   },
   {
     id: 8,
     userName: "Hannah Ruiz",
-    userDesignation: "@Mitchell",
-    userImage: "/images/user/user-05.png",
-    description:
-      "freedom public door tall most getting hungry order green only worry parallel obtain yard honor there pitch broke fifth globe development musical push shirt",
+    userDesignation: "Digital Marketer",
+    userImage: "/images/user/user-07.png",
+    description: "Their understanding of digital landscapes contributed greatly to our project's success. More frequent updates would be beneficial.",
   },
   {
     id: 21,
     userName: "Jay Alexander",
-    userDesignation: "@Chris",
-    userImage: "/images/user/user-06.png",
-    description:
-      "success remain while fruit shut wait plate instrument experiment shaking layers avoid heat directly dangerous example must family research scared baby did aid least",
+    userDesignation: "Software Engineer",
+    userImage: "/images/user/user-02.png",
+    description: "The team's coding skills are top-notch. A bit more flexibility in adapting to changes would make them unbeatable.",
   },
   {
     id: 63,
     userName: "Fred Graham",
-    userDesignation: "@Allie",
+    userDesignation: "Startup Founder",
     userImage: "/images/user/user-07.png",
-    description:
-      "reader halfway choose nails trail kitchen conversation eventually electric courage noun roar construction chose outer oxygen there yard spent pot sport exercise young recall",
+    description: "Their enthusiasm for innovation matched ours. A more detailed project roadmap would be helpful for planning.",
   },
   {
     id: 28,
     userName: "Chris Cunningham",
-    userDesignation: "@Blake",
+    userDesignation: "Data Analyst",
     userImage: "/images/user/user-08.png",
-    description:
-      "crew this composed believed memory stopped close important had recent rocket layers nose tube valley built busy apartment imagine born stiff acres positive press",
+    description: "Data insights provided by the team were crucial for our decisions. Regular check-ins would enhance the workflow.",
   },
   {
     id: 73,
     userName: "Polly Webster",
-    userDesignation: "@Adelaide",
+    userDesignation: "Product Manager",
     userImage: "/images/user/user-09.png",
-    description:
-      "seven morning title himself been ice may plural complete not badly anyway principal rain wood have accept busy down like widely one shallow tent",
+    description: "Their product development expertise shone through in every meeting. A tighter feedback loop would accelerate progress.",
   },
   {
     id: 14,
     userName: "Gerald Bowers",
-    userDesignation: "@Corey",
-    userImage: "/images/user/user-06.png",
-    description:
-      "couple window storm probably away hunt canal dirt such pencil science establish palace are myself entire feel pleasant milk island nearer ring merely imagine",
+    userDesignation: "Content Strategist",
+    userImage: "/images/user/user-09.png",
+    description: "Content-driven strategies they implemented increased our engagement significantly. More granular analytics would be appreciated.",
   },
   {
     id: 801,
     userName: "Dylan Cole",
-    userDesignation: "@Lina",
+    userDesignation: "Blockchain Expert",
     userImage: "/images/user/user-07.png",
-    description:
-      "yet during worried measure stiff sport against baseball melted remove team whispered writing cross back lamp smaller not bank shout scale bring naturally though",
+    description: "Their grasp of blockchain applications is robust and forward-thinking. A clearer billing process would aid in budgeting.",
   },
-
   {
     id: 3,
     userName: "Tyler Brooks",
-    userDesignation: "@Daisy",
-    userImage: "/images/user/user-01.png",
-    description:
-      "may tight moment figure ready whose married branch tip feathers field station feet union pole night broke tell difficulty lunch complete gentle relationship again",
+    userDesignation: "Cybersecurity Specialist",
+    userImage: "/images/user/user-05.png",
+    description: "Security recommendations were spot-on, enhancing our systems. More proactive risk assessments would be a plus.",
   },
   {
     id: 74,
     userName: "Winifred Pratt",
-    userDesignation: "@Virginia",
-    userImage: "/images/user/user-02.png",
-    description:
-      "replied spider system standard daily practical party heat aboard aloud author instrument frozen mouth tower corner location alive friendly locate farm bad machinery lamp",
+    userDesignation: "Operations Manager",
+    userImage: "/images/user/user-04.png",
+    description: "Operational efficiencies gained through their consultancy were notable. Streamlining the onboarding process would save time.",
   },
   {
     id: 25,
     userName: "Esther Webster",
-    userDesignation: "@Jorge",
-    userImage: "/images/user/user-03.png",
-    description:
-      "sort noon composed progress believed threw mother lift mental many silk equally scientist small most correct occasionally title outer blew old stood life around",
+    userDesignation: "HR Consultant",
+    userImage: "/images/user/user-05.png",
+    description: "Their tech solutions streamlined our HR processes effectively. A user-friendly interface would enhance the experience.",
   },
   {
     id: 98,
     userName: "Maude Haynes",
-    userDesignation: "@Fannie",
-    userImage: "/images/user/user-04.png",
-    description:
-      "add structure neighbor fine never acres regular definition earlier once such require yet break leather do sheet hidden easily report met sat climb underline",
+    userDesignation: "Financial Analyst",
+    userImage: "/images/user/user-06.png",
+    description: "Financial modeling tools they developed were accurate and insightful. More customization options would be useful.",
   },
   {
     id: 46,
     userName: "Lela Moran",
-    userDesignation: "@Connor",
-    userImage: "/images/user/user-05.png",
-    description:
-      "shells house team shop inch gold mile jungle friendly believed driver court remarkable feature is ability diagram which partly lower already bee push prize",
+    userDesignation: "Sales Director",
+    userImage: "/images/user/user-03.png",
+    description: "Sales automation tools provided by the team increased our efficiency. Integration with existing systems could be smoother.",
   },
   {
     id: 18,
     userName: "Bertha McGuire",
-    userDesignation: "@Dollie",
-    userImage: "/images/user/user-08.png",
-    description:
-      "coat west similar series copy future include saw bigger bare program paper return musical mad machinery chose art claws stood instant mistake actual heart",
+    userDesignation: "Creative Director",
+    userImage: "/images/user/user-03.png",
+    description: "Their creative tech solutions brought our campaigns to life. More iterative design sessions would foster creativity.",
   },
   {
     id: 81,
     userName: "Celia Day",
-    userDesignation: "@Edward",
-    userImage: "/images/user/user-09.png",
-    description:
-      "structure spent mean touch since flew island thought burn book question mice silence spell everybody night ought chosen give fair felt together brief ship",
+    userDesignation: "Legal Advisor",
+    userImage: "/images/user/user-05.png",
+    description: "Compliance solutions they implemented were effective and thorough. More tailored options would suit diverse needs.",
   },
   {
     id: 5,
     userName: "Vera Pearson",
-    userDesignation: "@Roxie",
-    userImage: "/images/user/user-01.png",
-    description:
-      "beauty eleven chosen business butter previous four crowd slipped tower cast swam afternoon club salt window explain shade free went complex ought related let",
+    userDesignation: "Environmental Scientist",
+    userImage: "/images/user/user-03.png",
+    description: "Sustainability initiatives benefited greatly from their tech support. More focus on eco-friendly technologies would align with our goals.",
   },
   {
     id: 8,
     userName: "Allie Hodges",
-    userDesignation: "@Ricardo",
+    userDesignation: "Research Scientist",
     userImage: "/images/user/user-02.png",
-    description:
-      "weight duck mountain fill upon pie bar sense grow previous unknown hardly group stop writing biggest until lack cotton influence build barn lunch environment",
+    description: "Their analytical tools enhanced our research capabilities. More robust data handling would improve efficiency.",
   },
   {
     id: 80,
     userName: "Lula Gross",
-    userDesignation: "@Lizzie",
-    userImage: "/images/user/user-03.png",
-    description:
-      "statement bread later discussion stand other exist plural post action by partly anybody additional die without if hollow frame below silk cell either above",
+    userDesignation: "Network Engineer",
+    userImage: "/images/user/user-02.png",
+    description: "Network solutions were reliable and scalable. More detailed documentation would aid in maintenance.",
   },
   {
     id: 44,
     userName: "Mike Romero",
-    userDesignation: "@Leonard",
+    userDesignation: "IT Manager",
     userImage: "/images/user/user-04.png",
-    description:
-      "softly distant ear gentle press sale on fear nose although spoken loud bee firm development settlers blood sad official obtain medicine science rain pour",
+    description: "IT infrastructure improvements were significant. More flexible support hours would help in urgent situations.",
   },
   {
     id: 74,
     userName: "Aiden Alexander",
-    userDesignation: "@Adelaide",
+    userDesignation: "Business Analyst",
     userImage: "/images/user/user-05.png",
-    description:
-      "early correctly memory entirely enjoy disease shoe whether minerals front constantly offer hung comfortable fix exciting phrase represent rocket plate track ago north center",
+    description: "Business intelligence tools provided deep insights. More interactive dashboards would enhance user engagement.",
   },
   {
     id: 11,
     userName: "Agnes Adams",
-    userDesignation: "@Lucile",
+    userDesignation: "Communications Specialist",
     userImage: "/images/user/user-06.png",
-    description:
-      "shaking count former arm directly definition mud possible ranch book muscle potatoes fun properly telephone metal name only serious seldom bound hay porch palace",
-  },
-  {
-    id: 7,
-    userName: "Gertrude Salazar",
-    userDesignation: "@Jeffery",
-    userImage: "/images/user/user-07.png",
-    description:
-      "studied sitting wave what keep glass measure evening smooth pattern story meet green poem wheel wheat shoe gift shelf eat contain swimming sad capital",
-  },
-  {
-    id: 101,
-    userName: "Steven McCarthy",
-    userDesignation: "@Shawn",
-    userImage: "/images/user/user-08.png",
-    description:
-      "partly which life teacher loose dangerous soon world journey instance immediately judge start rubbed library satisfied control tool what fur although rush room young",
-  },
-  {
-    id: 82,
-    userName: "Max Larson",
-    userDesignation: "@Lillian",
-    userImage: "/images/user/user-09.png",
-    description:
-      "wild laid whether younger tin mine are shoe softly apart gate nearby gas fell his cell jump announced national symbol pitch pond mysterious herself",
+    description: "Their communication platforms improved our internal workflows. More customization in the UI would be beneficial.",
   },
 ];
 

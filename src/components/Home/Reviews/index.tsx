@@ -27,7 +27,7 @@ const Reviews = () => {
         <SectionTitle
           subTitle="Wall of love"
           title="What Our User Says"
-          paragraph="Build SaaS AI applications using OpenAI and Next.js, this kit comes with pre-configured and pre-built examples, making it easier to quickly kickstart your AI startup."
+          paragraph="We have done more than 100+ projects for our clients, working everyday to develop better more accurate technology so our clients stay up to date with current times."
         />
 
         <div
