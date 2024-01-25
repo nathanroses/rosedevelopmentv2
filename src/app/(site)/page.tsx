@@ -20,7 +20,7 @@ export default function Home() {
   return (
     <>
       {/* <NextSeo
-        title="AI Tool - Next.js Template for AI Tools"
+        title="Rose Development - Next.js Template for Rose Developments"
         description="A short description goes here."
       /> */}
       <Hero />

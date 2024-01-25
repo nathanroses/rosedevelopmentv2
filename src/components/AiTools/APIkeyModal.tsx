@@ -30,7 +30,7 @@ const APIkeyModal = ({ handleModal }) => {
             Enter your OpenAI API Key
           </h2>
           <p className="pt-4 pb-8">
-            To access the capabilities of AI Tools Template, a valid OpenAI API
+            To access the capabilities of Rose Developments Template, a valid OpenAI API
             Key is required.
           </p>
 

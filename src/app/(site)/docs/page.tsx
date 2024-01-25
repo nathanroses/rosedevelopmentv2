@@ -3,8 +3,8 @@ import { getAllPosts } from "@/libs/markdown";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Docs | AI Tool - Next.js Template for AI Tools",
-  description: "This is Docs page for AI Tool",
+  title: "Docs | Rose Development - Next.js Template for Rose Developments",
+  description: "This is Docs page for Rose Development",
   // other metadata
 };
 
@@ -28,26 +28,7 @@ export default function DocsPage() {
             <div className="w-full px-4 lg:w-3/4">
               <div className="blog-details bg-white/5 rounded-lg py-11 px-8 sm:p-[55px] lg:mb-5 lg:px-8 xl:p-[55px]">
                 <h1>Welcome to our Client List</h1>
-
-                <p className="font-medium">
-                  This document serves as a simple template to showcase a sample
-                  layout and format. It is solely created for demonstration
-                  purposes and is not intended for any official use.
-                </p>
-                <p className="font-medium">
-                  Please visit:{" "}
-                  <b>
-                    <a
-                      className="text-white"
-                      target="_blank"
-                      href="https://nextjstemplates.com/docs"
-                    >
-                      rosedevelopment.org
-                    </a>
-                  </b>{" "}
-                  to check out the real docs, setup guide and even video
-                  instructions
-                </p>
+                 <img src="/images/video/video.png" alt="clients" className="w-full h-full" />
               </div>
             </div>
           </div>

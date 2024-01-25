@@ -235,7 +235,7 @@ const Signup = () => {
                         type="submit"
                         className="hero-button-gradient flex justify-center w-full rounded-lg py-3 px-7 text-white font-medium ease-in duration-300 hover:opacity-80"
                       >
-                        Sign up with AI Tool
+                        Sign up with Rose Development
                       </button>
                     </form>
 

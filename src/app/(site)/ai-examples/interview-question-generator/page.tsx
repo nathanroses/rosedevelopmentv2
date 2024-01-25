@@ -57,9 +57,9 @@ const InterviewQuestionGeneratorPage = () => {
   return (
     <>
       <title>
-        Interview Question Generator | AI Tool - Next.js Template for AI Tools
+        Interview Question Generator | Rose Development - Next.js Template for Rose Developments
       </title>
-      <meta name="description" content="This is AI Examples page for AI Tool" />
+      <meta name="description" content="This is AI Examples page for Rose Development" />
       <Breadcrumb pageTitle="Interview Question Generator" />
 
       <section className="pb-17.5 lg:pb-22.5 xl:pb-27.5">

@@ -38,7 +38,7 @@ Note: You can find all the model from here: https://platform.openai.com/docs/mod
 
 You must follow the documentation setp by step in this order to do a successful installation and configuration.
 
-### [AI Tool Installation and Config Docs](https://nextjstemplates.com/docs/templates#ai-tool)
+### [Rose Development Installation and Config Docs](https://nextjstemplates.com/docs/templates#ai-tool)
 
 ---
 

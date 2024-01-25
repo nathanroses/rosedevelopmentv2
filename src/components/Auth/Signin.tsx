@@ -233,7 +233,7 @@ const Signin = () => {
                         type="submit"
                         className="hero-button-gradient flex justify-center w-full rounded-lg py-3 px-7 text-white font-medium ease-in duration-300 hover:opacity-80"
                       >
-                        Sign in with AI Tool
+                        Sign in with Rose Development
                       </button>
                     </form>
 

@@ -12,7 +12,7 @@ export default async function Post({ params }: { params: { slug: string } }) {
     <>
       <title>{`${
         post?.title || "Docs"
-      } | AI Tool - Next.js Template for AI Tools`}</title>
+      } | Rose Development - Next.js Template for Rose Developments`}</title>
 
       <section className="pb-16 md:pb-20 lg:pb-24 pt-24 md:pt-28 lg:pt-32">
         <div className="container mx-auto">

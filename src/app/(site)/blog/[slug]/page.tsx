@@ -19,7 +19,7 @@ export default async function BlogDetails({ params }: Props) {
       <title>
         {`${
           post.title || "Blog Details"
-        } | AI Tool - Next.js Template for AI Tools`}
+        } | Rose Development - Next.js Template for Rose Developments`}
       </title>
 
       <Breadcrumb pageTitle="Blog Details" />

@@ -4,8 +4,8 @@ import { getPosts } from "@/sanity/sanity-utils";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Blog | AI Tool - Next.js Template for AI Tools",
-  description: "This is Blog page for AI Tool",
+  title: "Blog | Rose Development - Next.js Template for Rose Developments",
+  description: "This is Blog page for Rose Development",
   // other metadata
 };
 
