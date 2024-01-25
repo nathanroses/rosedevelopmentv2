@@ -55,7 +55,7 @@ const SinglePricing = ({ price }: any) => {
 
         <p className="font-medium">
           /only <br />
-          (billed once)
+          (one time payment)
         </p>
       </div>
 
@@ -63,9 +63,9 @@ const SinglePricing = ({ price }: any) => {
 
       {price.nickname === "Small" && (
         <ul className="flex flex-col gap-4">
-          <OfferItem text="Subscription with levels" />
+          <OfferItem text="HEy" />
           <OfferItem text="Advanced features included" />
-          <OfferItem text="Shared workspaces & tools" />
+          <OfferItem text="Shsared workspaces & tools" />
           <OfferItem text="Premium versions functionality" />
           <OfferItem text="Customizing the outputs" />
           <OfferItem text="Priority customer support" />

@@ -13,21 +13,16 @@ const menuData: Menu[] = [
     newTab: false,
     path: "/about",
   },
-  {
-    id: 4,
-    title: "Blog",
-    newTab: false,
-    path: "/blog",
-  },
+  
   {
     id: 3,
-    title: "Docs",
+    title: "Projects",
     newTab: false,
     path: "/docs",
   },
   {
     id: 5,
-    title: "Pages",
+    title: "Menu",
     newTab: false,
     submenu: [
       {
@@ -35,6 +30,12 @@ const menuData: Menu[] = [
         title: "About Page",
         newTab: false,
         path: "/about",
+      },
+      {
+        id: 4,
+        title: "Blog",
+        newTab: false,
+        path: "/blog",
       },
       {
         id: 391,
@@ -77,7 +78,7 @@ const menuData: Menu[] = [
 
   {
     id: 6,
-    title: "OpenAI Examples",
+    title: "Free Ai Tools",
     newTab: false,
     path: "/ai-examples",
     submenu: [
