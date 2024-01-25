@@ -39,7 +39,7 @@ const featuresData: Feature[] = [
   },
   {
     id: 3,
-    title: "Rich History",
+    title: "Innovation",
     description: "Started from the bottom, now we're here.",
     icon: "/images/features/icon-06.svg",
     rotate: true,

@@ -1,8 +1,7 @@
-## Getting Started with Open-AI API
+## Rose Development
 
 ### For Demo
 
-For testing the demo you have to add the api-key.
 
 - Got to /ai-examples
 - Click on the **Set API Key** button

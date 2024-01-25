@@ -27,7 +27,7 @@ const FeaturesList = () => {
                         </span>
                       </span>
                       <h3 className="text-white mb-4.5 font-bold text-heading-4">
-                        Seamless AI Integration
+                        Seamless Integration
                       </h3>
                       <p className="font-medium mb-10">
                       We also offer renovation of previous website. Our team of experts will overhall your website and update it with the latest advancements. Stay ahead of the curve
@@ -132,7 +132,7 @@ const FeaturesList = () => {
                     </span>
 
                     <h3 className="text-white mb-4.5 font-semibold text-heading-6">
-                      All Essential Websites + Apps
+                      Websites + Apps
                     </h3>
                     <p className="font-medium">
                      We offer a one time payment solution to your web needs. Square Space and Wix are great but charge monthly subscriptions. Rose Development is a One Time Payment.

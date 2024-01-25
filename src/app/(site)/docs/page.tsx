@@ -27,7 +27,7 @@ export default function DocsPage() {
 
             <div className="w-full px-4 lg:w-3/4">
               <div className="blog-details bg-white/5 rounded-lg py-11 px-8 sm:p-[55px] lg:mb-5 lg:px-8 xl:p-[55px]">
-                <h1>Welcome to Startup Documentation</h1>
+                <h1>Welcome to our Client List</h1>
 
                 <p className="font-medium">
                   This document serves as a simple template to showcase a sample
@@ -42,7 +42,7 @@ export default function DocsPage() {
                       target="_blank"
                       href="https://nextjstemplates.com/docs"
                     >
-                      nextjstemplates.com/docs
+                      rosedevelopment.org
                     </a>
                   </b>{" "}
                   to check out the real docs, setup guide and even video

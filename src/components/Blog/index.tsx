@@ -12,7 +12,7 @@ export default async function BlogSection() {
         <SectionTitle
           subTitle="Our Recent Projects"
           title="Latest Projects"
-          paragraph="We have created some awesome projects. Check them out below. Our Clients are happy with our work. We will keep working"
+          paragraph="These are our most recent projects. We are always working on new projects and will update this page as we finish them."
         />
 
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-7.5">

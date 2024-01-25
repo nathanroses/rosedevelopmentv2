@@ -14,7 +14,7 @@ const teamData: Team[] = [
     id: 51,
     name: "Lee Alverson",
     designation: "Accountant",
-    image: "/images/team/team-02.png",
+    image: "/images/team/team-05.png",
     fbLink: "https://www.facebook.com/",
     twitterLink: "https://twitter.com/",
     instagramLink: "https://www.instagram.com/",

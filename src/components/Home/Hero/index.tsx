@@ -43,8 +43,7 @@ const Hero = () => {
             Ai + Developers working together to Build Applications
           </h1>
           <p className="max-w-[500px] mx-auto mb-9 font-medium md:text-lg">
-          This is ideal for buisness owners who want a hands off aproach to the digital era. We handel the creation of your website or app including building ai specialized to your industry.
-           All that for a one time payment to create your forever solution.
+          This is ideal for buisness owners who want a hands off aproach to the digital era. We create your website or app including building ai specialized to your industry.
           </p>
 
           <Link

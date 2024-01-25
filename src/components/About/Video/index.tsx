@@ -35,7 +35,7 @@ const Video = () => {
 
       <FsLightbox
         toggler={toggler}
-        sources={["https://www.youtube.com/watch?v=xcJtL7QggTI"]}
+        sources={["https://www.youtube.com/watch?v=7PqugXyaSDc&ab"]}
       />
     </section>
   );

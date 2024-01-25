@@ -1,52 +1,33 @@
 ---
-title: Configuring Contact Form
+title: Tice Services 
 description: Configuring Contact Form That Comes with Templates
 date: 2023-1-23
 ---
 
-## Introduction
 
-This part of the documentation shows you how you can configure a contact form with Tailwind CSS Templates and Bootstrap Templates.
+#### Introduction
+Welcome to Tice Services, your premier partner in industry transformation. Our dedication to innovation and excellence is redefining service standards, offering unparalleled solutions that drive progress and efficiency in every sector we touch.
 
-## Using PHP Contact Form:
+#### Redefining Service Excellence with Tice Services
+Tice Services is synonymous with quality and innovation, delivering solutions that go beyond traditional service boundaries. Our vision is to lead the transformation of service industries, setting new benchmarks for quality, efficiency, and reliability.
 
-For Bootstrap templates, we used to provide a PHP script that only can be used for PHP servers,
+#### The Tice Services Impact
+Our influence extends beyond standard service provision; we are catalysts for change, offering services that not only meet but also redefine industry expectations. Our commitment is to empower businesses to achieve peak performance and operational excellence.
 
-if `phpmailer` function is up and running smoothly.
+#### Leading with Innovation and Expertise
+Tice Services specializes in a wide range of professional services, each designed to enhance and streamline operations. Our focus on cutting-edge solutions and expert delivery ensures that every interaction with Tice Services adds value and drives success.
 
-Here is how it works: Just **replace the email address with your own** from
+#### Elevating Industry Standards
+Our mission is to raise the bar in service delivery across all industries. Tice Services is dedicated to fostering advancements that enhance service quality, customer satisfaction, and operational efficiency.
 
-```bash
-assets->php>contact.php
-```
+#### Tice Services: A Name Synonymous with Trust
+Trust and quality are the pillars of Tice Services. We are committed to delivering excellence in every service, ensuring that our clients receive the best support and solutions available in the market.
 
-This procedure should work if everything is configured properly on the server side.
+#### The Future of Professional Services
+As Tice Services continues to grow, our commitment to leading the evolution of professional services remains unwavering. We are not just part of the industry; we are actively shaping its future, introducing innovative solutions and exceptional service standards.
 
-## Using FormBold: A universal Form API (Recommended):
+---
 
-[FormBold](https://formbold.com/) is a powerful form API and serverless form backend that works with all hosting, SSG, and frameworks.
+With Tice Services, you are partnering with a leader in professional services, dedicated to bringing you the forefront of innovation and quality. Stay connected as we continue to redefine what's possible in service excellence and industry leadership.
 
-We highly recommend, using a serverless end-point ([FormBold](https://formbold.com/)) to make contact form dynamic. Since most users nowadays don't use PHP servers.
-
-Here’s how to connect [FormBold](https://formbold.com/) API with your contact form:
-
-**Step#1**: Create an account on [FormBold](https://formbold.com/) and create a Form.
-
-**Step#2**: Integrate the API into your contact Form using this code. Make sure your Form’s method is set to **POST**
-
-```html
-<form action="https://formbold.com/s/unique_form_id" method="POST">
-  <input type="email" placeholder="email" name="email" />
-  <input type="text" placeholder="subject" name="subject" />
-  <textarea name="message" placeholder="message"></textarea>
-
-  <button type="submit">Send Message</button>
-</form>
-```
-
-You’ll find the `unique_form_id` in the [FormBold](https://formbold.com/) dashboard under \***\*Settings>Integration.\*\***
-
-Copy and paste it to the **action** attribute.
-
-This is just the basic setup, FormBold has a lot of great features like re-captcha for spam protection, and the ability to integrate it with other apps like Webhook, Slack, Notion, and GoogleSheet.
-Learn more about [FormBold](https://formbold.com/) [here](https://formbold.com/).
+[[Top]](#top)

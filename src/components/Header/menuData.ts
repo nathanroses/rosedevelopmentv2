@@ -15,65 +15,17 @@ const menuData: Menu[] = [
   },
   
   {
+    id: 391,
+    title: "Pricing",
+    newTab: false,
+    path: "/pricing",
+  },
+
+  {
     id: 3,
-    title: "Projects",
+    title: "Clients",
     newTab: false,
     path: "/docs",
-  },
-  {
-    id: 5,
-    title: "Menu",
-    newTab: false,
-    submenu: [
-      {
-        id: 301,
-        title: "About Page",
-        newTab: false,
-        path: "/about",
-      },
-      {
-        id: 4,
-        title: "Blog",
-        newTab: false,
-        path: "/blog",
-      },
-      {
-        id: 391,
-        title: "Pricing",
-        newTab: false,
-        path: "/pricing",
-      },
-      {
-        id: 31,
-        title: "Blog Grid",
-        newTab: false,
-        path: "/blog",
-      },
-      {
-        id: 34,
-        title: "Sign In",
-        newTab: false,
-        path: "/auth/signin",
-      },
-      {
-        id: 35,
-        title: "Sign Up",
-        newTab: false,
-        path: "/auth/signup",
-      },
-      {
-        id: 35,
-        title: "Docs",
-        newTab: false,
-        path: "/docs",
-      },
-      {
-        id: 36,
-        title: "404",
-        newTab: false,
-        path: "/error",
-      },
-    ],
   },
 
   {
@@ -84,7 +36,7 @@ const menuData: Menu[] = [
     submenu: [
       {
         id: 66,
-        title: "Content Writing Tool",
+        title: "Legal Document Generator",
         newTab: false,
         path: "/ai-examples/content-writing-tool",
       },
@@ -99,12 +51,6 @@ const menuData: Menu[] = [
         title: "Product Name Generator",
         newTab: false,
         path: "/ai-examples/product-name-generator",
-      },
-      {
-        id: 68,
-        title: "Article Title Generator",
-        newTab: false,
-        path: "/ai-examples/article-title-generator",
       },
       {
         id: 70,
