@@ -23,14 +23,14 @@ const FeaturesList = () => {
                         />
 
                         <span className="hero-subtitle-text">
-                          Kickstart your AI Startup
+                          All-in-one solution
                         </span>
                       </span>
                       <h3 className="text-white mb-4.5 font-bold text-heading-4">
-                        Seamless OpenAI Integration
+                        Seamless AI Integration
                       </h3>
                       <p className="font-medium mb-10">
-                      Build SaaS AI applications using OpenAI and Next.js, this kit comes with pre-configured and pre-built examples, making it easier to quickly kickstart your AI startup.
+                      We also offer renovation of previous website. Our team of experts will overhall your website and update it with the latest advancements. Stay ahead of the curve
                       </p>
                       <Link
                         href="/#"
@@ -124,7 +124,7 @@ const FeaturesList = () => {
                   <div className="relative z-20">
                     <span className="icon-border relative max-w-[80px] w-full h-20 rounded-full inline-flex items-center justify-center mb-13.5 mx-auto">
                       <Image
-                        src="/images/features/icon-05.svg"
+                        src="/images/features/icon-02.svg"
                         alt="icon"
                         width={32}
                         height={32}
@@ -132,10 +132,10 @@ const FeaturesList = () => {
                     </span>
 
                     <h3 className="text-white mb-4.5 font-semibold text-heading-6">
-                      All Essential SaaS Pages
+                      All Essential Websites + Apps
                     </h3>
                     <p className="font-medium">
-                    Build SaaS AI applications using OpenAI and Next.js, this kit comes with pre-configured and pre-built examples, making it easier to quickly kickstart.
+                     We offer a one time payment solution to your web needs. Square Space and Wix are great but charge monthly subscriptions. Rose Development is a One Time Payment.
                     </p>
                   </div>
 
@@ -194,7 +194,7 @@ const FeaturesList = () => {
                       Highly Customizable
                     </h3>
                     <p className="font-medium">
-                    Build SaaS AI applications using OpenAI and Next.js, quickly kickstart your AI startup.
+                    We work directly with your vision and bring it to life. We like a challenge and we are always up for it. 
                     </p>
                   </div>
 

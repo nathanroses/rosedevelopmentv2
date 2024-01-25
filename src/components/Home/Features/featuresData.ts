@@ -3,44 +3,44 @@ import { Feature } from "@/types/feature";
 const featuresData: Feature[] = [
   {
     id: 11,
-    title: "OpenAI Integration",
+    title: "AI Integration",
     description:
-      "Our AI writing tool analyzes your content, suggests improvements",
+      "Our AI Buisness Solutions are designed to help you grow your business",
     icon: "/images/features/icon-01.svg",
   },
   {
     id: 27,
-    title: "Next.js 13, React 18, TS",
-    description: "Say goodbye to embarrassing typos and grammar mistakes",
-    icon: "/images/features/icon-02.svg",
+    title: "Intergrated Digital Solutions",
+    description: "Delivering comprehensive solutions for all digital needs",
+    icon: "/images/features/icon-05.svg",
   },
   {
     id: 21,
-    title: "Auth, DB, Sanity Blog",
+    title: "Analytics ",
     description:
-      "Originality is key, and our AI writing tool helps you maintain it",
+      "Leveraging AI for deep analytical insights to drive business growth",
     icon: "/images/features/icon-03.svg",
   },
   {
     id: 3,
-    title: "Cutting-edge Technologies",
+    title: "24/7 Support",
     description:
-      "Transform your spoken words into written text easily & effortlessly",
+      "Talk to our team of experts to help you with your business needs",
     icon: "/images/features/icon-04.svg",
     rotate: true,
   },
   {
     id: 48,
-    title: "Pre-made AI Examples",
+    title: "Web & Mobile App Development",
     description:
-      "Whether you need a professional, or positive tone it has everyone",
+      "Crafting state-of-the-art websites with a blend of aesthetics and functionality.",
     icon: "/images/features/icon-05.svg",
     rotate: true,
   },
   {
     id: 3,
-    title: "Rich Documentation",
-    description: "Need inspiration or assistance with generating content?",
+    title: "Rich History",
+    description: "Started from the bottom, now we're here.",
     icon: "/images/features/icon-06.svg",
     rotate: true,
   },

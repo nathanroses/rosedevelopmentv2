@@ -3,8 +3,8 @@ import { Team } from "@/types/team";
 const teamData: Team[] = [
   {
     id: 76,
-    name: "Christian Cannon",
-    designation: "Product Designer",
+    name: "Nathan Rose",
+    designation: "Founder",
     image: "/images/team/team-01.png",
     fbLink: "https://www.facebook.com/",
     twitterLink: "https://twitter.com/",
@@ -12,8 +12,8 @@ const teamData: Team[] = [
   },
   {
     id: 51,
-    name: "Ricky Riley",
-    designation: "Frontend Developer",
+    name: "Lee Alverson",
+    designation: "Accountant",
     image: "/images/team/team-02.png",
     fbLink: "https://www.facebook.com/",
     twitterLink: "https://twitter.com/",
@@ -21,7 +21,7 @@ const teamData: Team[] = [
   },
   {
     id: 86,
-    name: "Gilbert Graham",
+    name: "Samantha Graham",
     designation: "Backend Developer",
     image: "/images/team/team-03.png",
     fbLink: "https://www.facebook.com/",
@@ -37,42 +37,7 @@ const teamData: Team[] = [
     twitterLink: "https://twitter.com/",
     instagramLink: "https://www.instagram.com/",
   },
-  {
-    id: 64,
-    name: "Millie Buchanan",
-    designation: "SEO Expert",
-    image: "/images/team/team-05.png",
-    fbLink: "https://www.facebook.com/",
-    twitterLink: "https://twitter.com/",
-    instagramLink: "https://www.instagram.com/",
-  },
-  {
-    id: 59,
-    name: "Jeffrey Alvarado",
-    designation: "DevOps",
-    image: "/images/team/team-06.png",
-    fbLink: "https://www.facebook.com/",
-    twitterLink: "https://twitter.com/",
-    instagramLink: "https://www.instagram.com/",
-  },
-  {
-    id: 39,
-    name: "Kathryn Klein",
-    designation: "Full-stack Developer",
-    image: "/images/team/team-07.png",
-    fbLink: "https://www.facebook.com/",
-    twitterLink: "https://twitter.com/",
-    instagramLink: "https://www.instagram.com/",
-  },
-  {
-    id: 86,
-    name: "Minnie Jordan",
-    designation: "Testing Developer",
-    image: "/images/team/team-08.png",
-    fbLink: "https://www.facebook.com/",
-    twitterLink: "https://twitter.com/",
-    instagramLink: "https://www.instagram.com/",
-  },
+  
 ];
 
 export default teamData;

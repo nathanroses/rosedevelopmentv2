@@ -9,7 +9,7 @@ const Team = () => {
         <SectionTitle
           subTitle="Meet Out Team"
           title="Our Dynamic Team"
-          paragraph="Build SaaS AI applications using OpenAI and Next.js, this kit comes with pre-configured and pre-built examples, making it easier to quickly kickstart your AI startup."
+          paragraph="We are Rose Development and we are here to help you with your business. "
         />
 
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-10 lg:gap-17.5">

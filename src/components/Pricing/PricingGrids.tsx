@@ -21,10 +21,10 @@ const PricingGrids = () => {
         <SectionTitle
           subTitle="Get access"
           title="Our Pricing Plan"
-          paragraph="Build SaaS AI applications using OpenAI and Next.js, this kit comes with pre-configured and pre-built examples, making it easier to quickly kickstart your AI startup."
+          paragraph="We have plans for everyone. All include 24/7 support and hosting. No Subscriptions."
         />
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-7.5">
-          {prices &&
+          {prices && 
             prices.map((price, key) => (
               <SinglePricing price={price} key={key} />
             ))}

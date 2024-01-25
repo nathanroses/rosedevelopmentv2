@@ -75,13 +75,13 @@ const icon1 = (
   </svg>
 );
 
-const OfferItem = ({ text }: { text: string }) => {
+const OfferItem = ({ text }) => {
   return (
-    <li className="flex items-center gap-5">
-      {icon1}
+    <li className="flex items-center gap-2">
       <span className="font-medium">{text}</span>
     </li>
   );
 };
+
 
 export default OfferItem;
