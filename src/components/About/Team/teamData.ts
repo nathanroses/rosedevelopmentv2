@@ -21,9 +21,9 @@ const teamData: Team[] = [
   },
   {
     id: 86,
-    name: "Samantha Graham",
+    name: "Jonathan Madano",
     designation: "Fullstack Developer",
-    image: "/images/team/team-03.png",
+    image: "/images/team/team-02.png",
     fbLink: "https://www.facebook.com/",
     twitterLink: "https://twitter.com/",
     instagramLink: "https://www.instagram.com/",
