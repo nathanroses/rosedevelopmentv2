@@ -13,7 +13,7 @@ const teamData: Team[] = [
   {
     id: 51,
     name: "Lee Alverson",
-    designation: "Accountant",
+    designation: "Data Scientist",
     image: "/images/team/team-05.png",
     fbLink: "https://www.facebook.com/",
     twitterLink: "https://twitter.com/",

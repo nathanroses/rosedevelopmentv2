@@ -58,14 +58,14 @@ const CallToAction = () => {
               What are you waiting for?
             </h2>
             <p className="max-w-[714px] mx-auto font-medium mb-9">
-            Rose Development will Create Applications the Public Deems Useful.
+            Rose Development is your partner in innovation.
             </p>
 
             <Link
               href="/"
               className="hero-button-gradient inline-flex rounded-lg py-3 px-7 text-white font-medium ease-in duration-300 hover:opacity-80"
             >
-              Get Started for Free
+              Click Here Now
             </Link>
           </div>
         </div>

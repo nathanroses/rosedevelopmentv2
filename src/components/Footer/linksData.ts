@@ -19,18 +19,6 @@ export const productsLink: FooterLink[] = [
     href: "",
     newTab: false,
   },
-  {
-    id: 4,
-    title: "Changes log",
-    href: "#",
-    newTab: false,
-  },
-  {
-    id: 5,
-    title: "Roadmap",
-    href: "",
-    newTab: false,
-  },
 ];
 
 export const companiesLink: FooterLink[] = [
@@ -60,30 +48,6 @@ export const companiesLink: FooterLink[] = [
   },
 ];
 export const supportsLink: FooterLink[] = [
-  {
-    id: 21,
-    title: "Features",
-    href: "#",
-    newTab: false,
-  },
-  {
-    id: 32,
-    title: "Integrations",
-    href: "#",
-    newTab: false,
-  },
-  {
-    id: 43,
-    title: "Pricing",
-    href: "",
-    newTab: false,
-  },
-  {
-    id: 54,
-    title: "Changes log",
-    href: "#",
-    newTab: false,
-  },
   {
     id: 65,
     title: "Roadmap",
