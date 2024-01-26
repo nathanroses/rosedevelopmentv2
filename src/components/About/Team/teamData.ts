@@ -22,7 +22,7 @@ const teamData: Team[] = [
   {
     id: 86,
     name: "Samantha Graham",
-    designation: "Backend Developer",
+    designation: "Fullstack Developer",
     image: "/images/team/team-03.png",
     fbLink: "https://www.facebook.com/",
     twitterLink: "https://twitter.com/",
@@ -30,9 +30,9 @@ const teamData: Team[] = [
   },
   {
     id: 1,
-    name: "Elijah Carroll",
-    designation: "Content Writer",
-    image: "/images/team/team-04.png",
+    name: "Elijah Murray",
+    designation: "UI/UX Designer",
+    image: "/images/team/team-07.png",
     fbLink: "https://www.facebook.com/",
     twitterLink: "https://twitter.com/",
     instagramLink: "https://www.instagram.com/",
