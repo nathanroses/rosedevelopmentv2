@@ -30,7 +30,7 @@ const FeaturesList = () => {
                         Seamless Integration
                       </h3>
                       <p className="font-medium mb-10">
-                      We also offer renovation of previous website. Our team of experts will overhall your website and update it with the latest advancements. Stay ahead of the curve
+                      Dont need a website. We are the first company to do renovation of your existing website. Send us your code our experts will overhall your website and update it using the latest technology.
                       </p>
                       <Link
                         href="/#"
@@ -135,7 +135,7 @@ const FeaturesList = () => {
                       Websites + Apps
                     </h3>
                     <p className="font-medium">
-                     We offer a one time payment solution to your web needs. Square Space and Wix are great but charge monthly subscriptions. Rose Development is a One Time Payment.
+                     We offer a one time payment solution to your web needs. SquareSpace and Wix are great but charge monthly subscriptions. Rose Development is different offering multiple payment options.
                     </p>
                   </div>
 
@@ -194,7 +194,7 @@ const FeaturesList = () => {
                       Highly Customizable
                     </h3>
                     <p className="font-medium">
-                    We work directly with your vision and bring it to life. We like a challenge and we are always up for it. 
+                    We work directly with your vision and bring it to life. We do all the back-end work. Creating what you really want for your company. 
                     </p>
                   </div>
 

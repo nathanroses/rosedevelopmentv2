@@ -36,7 +36,7 @@ const Signin = () => {
                   <div className="absolute top-0 right-0 w-[1px] h-full bg-gradient-to-b from-white/0 via-white/20 to-white/0"></div>
 
                   <h2 className="max-w-[292px] font-bold text-white text-heading-4 mb-10">
-                    Unlock the Power of Writing Tool
+                    Unlock the Power of Rose Development
                   </h2>
                   <div className="relative aspect-[61/50] max-w-[427px] w-full">
                     <Image src="/images/signin/sigin.svg" alt="signin" fill />

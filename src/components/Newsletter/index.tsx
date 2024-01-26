@@ -8,7 +8,7 @@ const Newsletter = () => {
               News & Update
             </h3>
             <p className="font-medium">
-              Keep up to date with everything about our tool
+              Keep up to date with everything about our company
             </p>
           </div>
           <div className="max-w-[534px] w-full">

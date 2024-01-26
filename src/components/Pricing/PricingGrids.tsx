@@ -21,7 +21,7 @@ const PricingGrids = () => {
         <SectionTitle
           subTitle="Get access"
           title="Our Pricing Plan"
-          paragraph="We have plans for everyone. All include 24/7 support and hosting. No Subscriptions."
+          paragraph="We have plans for everyone. We offer personalized quotes. Flexible Payment Plans."
         />
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-7.5">
           {prices && 

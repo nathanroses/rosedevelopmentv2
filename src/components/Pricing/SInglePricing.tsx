@@ -56,7 +56,7 @@ const SinglePricing = ({ price }) => {
           })}
         </h2>
         <p className="font-medium">
-          /total <br />
+          /year <br />
         </p>
       </div>
 
@@ -69,10 +69,11 @@ const SinglePricing = ({ price }) => {
     ))
   ) : (
     <>
-      <p className="text-white">- Website or App Creation</p>
-      <p className="text-white">- Free Website Hosting</p>
-      <p className="text-white">- Ai Intergration</p>
-      <p className="text-white">- 24/7 Support</p>
+      <p className="text-white">Custom Website or App</p>
+      <p className="text-white">Free Website Hosting</p>
+      <p className="text-white">Ai Intergration</p>
+      <p className="text-white">Added Marketing Bonus</p>
+      <p className="text-white">24/7 Support</p>
       {/* Add as many <p> tags as you need for additional benefits */}
     </>
   )}
@@ -88,8 +89,7 @@ const SinglePricing = ({ price }) => {
         {/* ... SVG for the button ... */}
       </button>
 
-      <p className="mt-4 text-sm text-center text-white">Taxes Not Included</p>
-
+      <p className="mt-4 text-sm text-center text-white">No Subscription Commitment</p>
       {/* Background shapes */}
       <div className="absolute -z-10 pointer-events-none inset-0 overflow-hidden">
         <span className="absolute left-0 bottom-0 w-full aspect-[370/553] -z-1">

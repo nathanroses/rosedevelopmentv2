@@ -27,8 +27,8 @@ export default function DocsPage() {
 
             <div className="w-full px-4 lg:w-3/4">
               <div className="blog-details bg-white/5 rounded-lg py-11 px-8 sm:p-[55px] lg:mb-5 lg:px-8 xl:p-[55px]">
-                <h1>Welcome to our Client List</h1>
-                 <img src="/images/video/video.png" alt="clients" className="w-full h-full" />
+                <h5>Welcome to our Client List</h5>
+                <h6>Founded in 2020</h6>
               </div>
             </div>
           </div>

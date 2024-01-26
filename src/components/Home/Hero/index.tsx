@@ -43,14 +43,14 @@ const Hero = () => {
             Ai + Developers working together to Build Applications
           </h1>
           <p className="max-w-[500px] mx-auto mb-9 font-medium md:text-lg">
-          This is ideal for buisness owners who want a hands off aproach to the digital era. We create your website or app including building ai specialized to your industry.
+          This is ideal for buisness owners who want a hands off aproach to the digital era. We create your website or app with specialized ai and industry experts.
           </p>
 
           <Link
             href="/pricing"
             className="hero-button-gradient inline-flex rounded-lg py-3 px-7 text-white font-medium ease-in duration-300 hover:opacity-80"
           >
-            Join our Client List 
+            Join our Beta Program
           </Link>
         </div>
       </div>
