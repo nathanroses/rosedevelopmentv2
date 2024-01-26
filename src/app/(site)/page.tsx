@@ -12,7 +12,7 @@ import { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Rose Development Ai + Web Development",
-  description: "This is Home for Rose Development",
+  description: "This is Home for Rose Development the best Ai + Web Development Company in the world.",
   // other metadata
 };
 
