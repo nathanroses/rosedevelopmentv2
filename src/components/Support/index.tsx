@@ -56,7 +56,7 @@ const Support = () => {
           {/* <!-- support form --> */}
           <div className="form-box-gradient relative overflow-hidden rounded-[25px] bg-dark p-6 sm:p-8 xl:p-15">
             <form
-              action="https://formbold.com/s/unique_form_id"
+              action="https://formbold.com/s/35eZ8"
               method="POST"
               className="relative z-10"
             >

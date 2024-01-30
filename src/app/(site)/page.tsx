@@ -11,7 +11,7 @@ import Support from "@/components/Support";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Rose Development Ai + Web Development",
+  title: "Rose Development",
   description: "This is Home for Rose Development the best Ai + Web Development Company in the world.",
   // other metadata
 };
